@@ -1,0 +1,10 @@
+{
+	"name": "synapse-ws-sqlOnDemand--ubedn",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/88908a3d-a97a-413d-9efa-d1548987ffc1/resourceGroups/Day4_RG/providers/Microsoft.Synapse/workspaces/ubedn",
+		"groupId": "sqlOnDemand",
+		"fqdns": [
+			"ubedn-ondemand.93ac0939-28c7-49b3-a622-c4b16173e0f9.sql.azuresynapse.net"
+		]
+	}
+}

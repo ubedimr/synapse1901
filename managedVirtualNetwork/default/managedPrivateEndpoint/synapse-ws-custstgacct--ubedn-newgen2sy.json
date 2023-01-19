@@ -1,0 +1,7 @@
+{
+	"name": "synapse-ws-custstgacct--ubedn-newgen2sy",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/88908a3d-a97a-413d-9efa-d1548987ffc1/resourceGroups/Day4_RG/providers/Microsoft.Storage/storageAccounts/newgen2sy",
+		"groupId": "dfs"
+	}
+}
